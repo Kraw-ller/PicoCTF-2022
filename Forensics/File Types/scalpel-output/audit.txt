@@ -1,0 +1,16 @@
+
+Scalpel version 1.60 audit file
+Started at Sat Apr 22 21:50:18 2023
+Command line:
+scalpel Flag.pdf 
+
+Output directory: /home/ayoub/Repos/PicoCTF-2022/Forensics/File Types/scalpel-output
+Configuration file: /etc/scalpel/scalpel.conf
+
+Opening target "/home/ayoub/Repos/PicoCTF-2022/Forensics/File Types/Flag.pdf"
+
+The following files were carved:
+File		  Start			Chop		Length		Extracted From
+
+
+Completed at Sat Apr 22 21:50:18 2023

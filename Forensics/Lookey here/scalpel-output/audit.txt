@@ -1,0 +1,16 @@
+
+Scalpel version 1.60 audit file
+Started at Sat Apr 22 22:56:45 2023
+Command line:
+scalpel anthem.flag.txt 
+
+Output directory: /home/ayoub/Repos/PicoCTF-2022/Forensics/Lookey here/scalpel-output
+Configuration file: /etc/scalpel/scalpel.conf
+
+Opening target "/home/ayoub/Repos/PicoCTF-2022/Forensics/Lookey here/anthem.flag.txt"
+
+The following files were carved:
+File		  Start			Chop		Length		Extracted From
+
+
+Completed at Sat Apr 22 22:56:45 2023

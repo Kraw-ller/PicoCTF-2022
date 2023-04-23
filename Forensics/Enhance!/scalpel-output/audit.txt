@@ -1,0 +1,16 @@
+
+Scalpel version 1.60 audit file
+Started at Sat Apr 22 11:31:38 2023
+Command line:
+scalpel drawing.flag.svg 
+
+Output directory: /home/ayoub/Repos/PicoCTF-2022/Forensics/Enhance!/scalpel-output
+Configuration file: /etc/scalpel/scalpel.conf
+
+Opening target "/home/ayoub/Repos/PicoCTF-2022/Forensics/Enhance!/drawing.flag.svg"
+
+The following files were carved:
+File		  Start			Chop		Length		Extracted From
+
+
+Completed at Sat Apr 22 11:31:38 2023
